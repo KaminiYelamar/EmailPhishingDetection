@@ -16,10 +16,10 @@ _Final Model:_ A well-optimized model is selected based on performance metrics t
 
 **Project Goals:**
 
-Automate the identification of phishing emails.
-Improve email security by accurately flagging suspicious emails.
-Analyze and extract critical features that indicate phishing attempts.
-Future scope includes developing a system for VIP.
+1. Identification of phishing emails.
+2. Improve email security by accurately flagging suspicious emails.
+3. Analyze and extract critical features that indicate phishing attempts.
+4. Future scope includes developing a system for VIP.
 
 **Technologies Used:**
 
