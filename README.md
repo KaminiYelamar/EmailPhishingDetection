@@ -5,9 +5,13 @@
 **Key Features:**
 
 _Data Preprocessing:_ The dataset includes various email attributes such as subject lines, email content, sender information, and metadata. Text preprocessing techniques like tokenization, stemming, and removal of stop words have been applied.
+
 _Feature Extraction:_ Using techniques such as TF-IDF (Term Frequency-Inverse Document Frequency) and word embeddings to transform textual data into meaningful features for the model.
+
 _Model Development:_ Various machine learning algorithms such as Random Forest, Support Vector Machine (SVM), and Logistic Regression are implemented to detect phishing emails. The models are evaluated for accuracy, precision, recall, and F1-score.
+
 _Training and Validation:_ The dataset is split into training and validation sets to assess the performance of the models and avoid overfitting.
+
 _Final Model:_ A well-optimized model is selected based on performance metrics to provide robust phishing email detection.
 
 **Project Goals:**
